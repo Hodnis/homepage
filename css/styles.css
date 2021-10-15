@@ -1,0 +1,42 @@
+
+
+h1 {
+  color: green;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+body {
+  background-color: #734046;
+  color: white;
+  text-align: center;
+}
+
+
+
+/* Styling av Navbar */
+
+.nav-bordera {
+   border-top-left-radius:30px;
+   border-bottom-left-radius:30px;
+   }
+
+   .nav-borderb {
+   border-top-right-radius:30px;
+   border-bottom-right-radius:30px;
+   }
+
+   .nav-border {
+       border-radius: 30px;
+       }
+
+
+.main {
+  padding: 3% 17%;
+}
+
+.toDoList {
+  text-align: left;
+}
