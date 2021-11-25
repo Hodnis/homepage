@@ -28,12 +28,14 @@ body {
   border-radius: 30px;
 }
 
-/* Styling */
-
 .main {
   padding: 3% 17%;
 }
 
 .toDoList {
   text-align: left;
+}
+
+.bgg-table {
+  border-radius: 15px;
 }
